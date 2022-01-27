@@ -10,7 +10,7 @@ made by Jaehyeok Choi
 
 ## What Algorithm should I use?
 
-dynamic programming
+Graph algorithm (MST)
 
 ## What was the key point and the hard part?
 
